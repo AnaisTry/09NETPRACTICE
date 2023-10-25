@@ -55,7 +55,7 @@ Address Block		Range of Addresses				Number of Addresses	Use
 255.255.255.255/32	255.255.255.255					1					Subnet: limited broadcast destination address
 ```
 
-### Subneting
+### Subnetting
 ```
 Bitmask (Bits)	Dotted Decimal	Hexadecimal	Binary								Nb of networks	Nb of hosts	Group size
 /0				0.0.0.0			0x00000000	00000000 00000000 00000000 00000000												
